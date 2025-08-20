@@ -1,57 +1,23 @@
 # 📊 Sales Insights Dashboard (Excel)
 
-This project demonstrates how to use **Excel pivot tables and dashboards** to analyze sales performance.  
+This project provides a Sales Insights Dashboard built in **Excel** with supporting dataset and exploratory data analysis.
 
 ---
 
-## 📂 Dataset
-- **File:** `sales_data.xlsx`
-- Contains sales transactions with columns:  
-  - `Date` → transaction date  
-  - `Product` → product sold  
-  - `Region` → sales region  
-  - `Sales` → sales amount ($)  
+## 🚀 Files in this Repo
+- `Sales_Insights_Dashboard.xlsx` → Interactive Excel Dashboard  
+- `sales_data.csv` → Raw dataset used for analysis  
+- `Untitled1.ipynb` → Jupyter Notebook with additional sales analysis  
+- `Dashboard.png` → Screenshot of the Excel Dashboard  
 
 ---
 
-## ⚙️ Tools Used
-- Microsoft Excel  
-- Pivot Tables  
-- Charts & Dashboard design  
+## 🖼️ Dashboard Preview
+![Dashboard Screenshot](./Dashboard.png)
 
 ---
 
-## 🔍 Key Analysis
-✔️ Sales by Region  
-✔️ Top Products  
-✔️ Monthly Sales Trend  
-
----
-
-## 📈 Results
-- Region B is the **highest performing region**.  
-- Electronics category contributed the **largest share of sales**.  
-- December saw a significant **seasonal spike in sales**.  
-
----
-
-## 🖥️ Preview
-*(Optional: Upload a screenshot named `dashboard.png` showing your Excel dashboard)*  
-
----
-
-## 🚀 How to Use
-1. Download `sales_data.xlsx`.  
-2. Open in Microsoft Excel (2016 or later recommended).  
-3. Explore Pivot Tables and Dashboard sheets.  
-
----
-
-## 📬 Contact
-👤 **Samuel Oluwalonimi Ibitola**  
-- [LinkedIn](https://www.linkedin.com/in/samuelibitola)  
-- [Kaggle](https://www.kaggle.com/work)  
-- Email: ibitolasamuel2@gmail.com  
-
----
-✨ *This project is part of my Data Analytics portfolio.*
+## 📂 Access the Files
+- 📊 [Download Excel Dashboard](./Sales_Insights_Dashboard.xlsx)  
+- 🗂️ [Download Dataset](./sales_data.csv)  
+- 📓 [View Jupyter Notebook](./Untitled1.ipynb)  
